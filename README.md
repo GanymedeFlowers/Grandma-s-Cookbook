@@ -4,7 +4,7 @@ Easily convert measurements between measuring systems, scale them for different 
 
 # Meet the team:
 - Felix M. Unger (Contact: cu235828@my.stchas.edu)
-- Bader Aljamal (Contact:
-- Bhone Khant (Contact:
-- Natalie Rottmann (Contact:
+- Bader Aljamal (Contact: ba273893@my.stchas.edu)
+- Bhone Khant (Contact: bk282807@my.stchas.edu)
+- Natalie Rottmann (Contact: nr269687@my.stchas.edu)
 - Lucas Vines (Contact: 
